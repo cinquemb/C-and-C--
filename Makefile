@@ -19,6 +19,7 @@ all:
 	cc ex17.c -o ex17
 	cc ex18.c -o ex18
 	cc ex20.c -o ex20
+	cc ex23.c -o ex23
 
 clean:
 	rm -f helloworld
@@ -41,3 +42,4 @@ clean:
 	rm -f ex20
 	rm -f ex22
 	rm -f ex22_main
+	rm -f ex23
