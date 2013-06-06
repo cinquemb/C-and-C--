@@ -33,7 +33,8 @@ int main(int argc, char *argv[])
 	log_info("THE_SIZE is: %d", THE_SIZE);
 	print_size();
 
-	THE_SIZE = 9;
+	//THE_SIZE = 9;
+
 
 	log_info("THE_SIZE is now: %d", THE_SIZE);
 	print_size();

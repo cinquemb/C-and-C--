@@ -1,4 +1,4 @@
-#ifdef _ex22_h
+#ifndef _ex22_h
 #define _ex22_h
 
 //make THE_SIZE in ex22.c available to other .c files

@@ -39,3 +39,5 @@ clean:
 	rm -f ex17
 	rm -f ex18
 	rm -f ex20
+	rm -f ex22
+	rm -f ex22_main
